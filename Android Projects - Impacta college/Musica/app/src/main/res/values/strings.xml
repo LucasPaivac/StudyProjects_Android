@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Musica</string>
+    <string name="incorreto">Incorreto.</string>
+    <string name="correto">Correto. Parabéns !</string>
+</resources>

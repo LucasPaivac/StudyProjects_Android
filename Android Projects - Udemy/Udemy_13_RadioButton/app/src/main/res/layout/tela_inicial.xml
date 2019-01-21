@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Qual sua comida preferida?"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <RadioGroup
+        android:id="@+id/rg_comidas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <RadioButton
+            android:id="@+id/rb_lasanha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Parmegiana" />
+
+        <RadioButton
+            android:id="@+id/rb_parmegiana"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lasanha" />
+
+        <RadioButton
+            android:id="@+id/rb_macarrao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Macarrão" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_escolher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:text="Escolher" />
+
+    <TextView
+        android:id="@+id/tv_resultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
+        tools:text="Resultado"
+        android:textSize="24sp" />
+
+</LinearLayout>

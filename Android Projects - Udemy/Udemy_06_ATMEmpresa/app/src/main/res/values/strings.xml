@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Udemy_06_ATMEmpresa</string>
+    <string name="sobre_a_empresa">Sobre a empresa</string>
+
+    <string name="texto_teste">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget
+        ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant
+        morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus.
+        purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus
+        lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique
+        senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna,
+        auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.Lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis
+        condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus
+        et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor
+        et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing. Lorem ipsum dolor sit
+        amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam
+        nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada
+        fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac,
+        posuere eu, lectus. Nam mattis, felis ut adipiscing. Lorem ipsum dolor sit amet, consectetur
+        adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa.
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus.
+        purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus
+        lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique
+        senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna,
+        auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.Lorem ipsum
+        dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis
+        condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus
+        et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor
+        et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing. Lorem ipsum dolor sit
+        amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam
+        nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada
+        fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac,
+        posuere eu, lectus. Nam mattis, felis ut adipiscing.</string>
+    <string name="servicos">Serviços</string>
+    <string name="processos">Processos</string>
+    <string name="acompanhamento_e_projetos">Acompanhamento e projetos</string>
+    <string name="nossos_clientes">Nossos Clientes</string>
+    <string name="contato">Contato</string>
+
+</resources>

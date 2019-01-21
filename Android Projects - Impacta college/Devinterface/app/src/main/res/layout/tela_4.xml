@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/bg1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="238dp"
+        android:src="@drawable/logogame1" />
+
+    <ImageButton
+        android:id="@+id/ibtn_easy"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center"
+        android:background="@drawable/easy"
+        android:layout_width="170dp"
+        android:layout_height="65dp" />
+
+    <ImageButton
+        android:id="@+id/ibtn_medium"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:background="@drawable/medium"
+        android:layout_width="170dp"
+        android:layout_height="65dp" />
+
+    <ImageButton
+        android:id="@+id/ibtn_hard"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:background="@drawable/hard"
+        android:layout_width="170dp"
+        android:layout_height="65dp" />
+
+    <ImageButton
+        android:id="@+id/ibtn_insane"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:background="@drawable/insane"
+        android:layout_width="170dp"
+        android:layout_height="65dp" />
+
+</LinearLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceLog</string>
+    <string name="mensagem">Você recebeu uma notificação através de um serviço Android</string>
+</resources>

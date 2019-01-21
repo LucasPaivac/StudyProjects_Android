@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="#85bddf"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="254dp"
+            android:layout_height="111dp"
+            android:src="@drawable/logogame2" />
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/ibtn_vida"
+                android:layout_marginRight="35dp"
+                android:background="@drawable/vida"
+                android:layout_width="152dp"
+                android:layout_height="53dp" />
+
+            <ImageButton
+                android:id="@+id/ibtn_dinheiro"
+                android:layout_marginLeft="35dp"
+                android:background="@drawable/dinheiro"
+                android:layout_width="152dp"
+                android:layout_height="53dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:background="@drawable/bg1"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:textColor="#000000"
+            android:id="@+id/tv_nivel"
+            android:text="XX"
+            android:textSize="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/btn_voltar"
+            android:layout_marginTop="10dp"
+            android:text="VOLTAR"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
